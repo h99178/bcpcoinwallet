@@ -1,0 +1,3 @@
+[submodule "bcpcoinwallet"]
+	path = bcpcoinwallet
+	url = https://github.com/h99178/bcpcoinwallet.git
